@@ -32,6 +32,9 @@ p {
   line-height: 1.5;
   text-align: center;
 }
+.contact-link:hover {
+  color: white;
+}
 
 .navigation-links {
   display: flex;
